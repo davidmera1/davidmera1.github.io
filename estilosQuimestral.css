@@ -1,0 +1,33 @@
+.uno
+{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E2E2;
+    height: 100px;
+}
+.dos
+{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF0AC ;
+    height: 100px;
+}
+
+
+.IMAGEN img{
+    width: 100%
+}
+
+.cinco
+{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D1EAFF  ;
+    height: 100px;
+}
+
+
+
